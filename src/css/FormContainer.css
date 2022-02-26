@@ -1,0 +1,16 @@
+.label-form-container {
+	color: white;
+	font-weight: 400;
+	font-size: calc(8px + 2vmin);
+}
+
+.Form {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.question-mark-icon {
+	margin-bottom: 6px;
+	border: 2px solid black;
+	border-radius: 50%;
+}

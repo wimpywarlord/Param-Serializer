@@ -1,0 +1,6 @@
+.references-box {
+	background-color: whitesmoke;
+	border-radius: 12px;
+	width: 70%;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}

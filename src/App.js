@@ -1,14 +1,13 @@
-import "./App.css";
-import InputForm from "./components/Form.js";
+import './css/App.css';
+
+import Home from './components/Home';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <InputForm></InputForm>
-      </header>
-    </div>
-  );
+	return (
+		<div className='App'>
+			<Home></Home>
+		</div>
+	);
 }
 
 export default App;

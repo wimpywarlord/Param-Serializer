@@ -1,0 +1,9 @@
+.copy-button {
+	background-color: lightgreen !important;
+	border: none !important;
+	border-radius: 0px 5px 5px 0px !important;
+}
+
+.output-field-box {
+	border-radius: 4px 0px 0px 4px !important;
+}
