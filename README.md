@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Kshitij Dhyani  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![My Banner](/banner.png)
 
-## Available Scripts
+# Wimpy Warlord 👽
+![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
 
-In the project directory, you can run:
+**I pump iron during the day and smash my keyboard in the night.🐙** 
 
-### `npm start`
+## JSONtoHTTPquery. 🐕
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+😴 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🐍 
 
-### `npm test`
+😍 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![My Product](/website.png)
 
-### `npm run build`
+**Link to the website** : https://amigos-icebreaker.herokuapp.com/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started 🎧
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project utilized the benefits of multiple technologies such as javascript , HTML5 , css , scss.
+Its better if we familiarize ourselves with these technologies. 
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.instagram.com/kshitij_dhyani/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+There no necessity for any software for running the project ! The editor and package manager are all at your discretion. 
 
-### `npm run eject`
+## Installing☔
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Its pretty straightforward :
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Clone the repo :** 
+```
+git clone <repository Url>
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Deployment 💡
+[![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/wimpywarlord/Mess_It_Up) [![MAKE](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![SELL](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Run the application** 
+```
+Use live server extention in vscode.
+```
 
-## Learn More
+## Built With 🎯
+**A lot of love and a little JavaScript**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Make Pull requests which improve the functionality of the application in any sorts. It should conform with the following conditions. 
+* Clear , short , crisp description of the PR. 
+* Should add on to the value of the application.
 
-### Code Splitting
+## Become my distraction (Social Media)🏅
+I am From **New Delhi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+|                                                                                     <a href="https://github.com/wimpywarlord"><img src="https://i.ibb.co/JCdtj0v/Whats-App-Image-2020-05-18-at-9-41-11-PM.jpg" width=170px height=165px /></a>                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                        **[Kshitij Dhyani](https://avatars0.githubusercontent.com/u/41532804?s=460&u=b5b9022dc4dc061a63574b6376a9fc23d3dbf695&v=4)**                                                                                                                                        |
+| <a href="https://twitter.com/kshitij_dhyani"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kshitij.dhyani.3"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="www.linkedin.com/in/kshitijdhyani/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+MIT © [Kshitij Dhyani](https://github.com/wimpywarlord)
 
-### Making a Progressive Web App
+## Acknowledgments 💖
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
